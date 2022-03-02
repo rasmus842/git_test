@@ -1,2 +1,3 @@
 # git_test
-Frist repo, test
+First repo, test
+Hello Odin!
